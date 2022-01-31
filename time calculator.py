@@ -1,4 +1,4 @@
-#disclaimer: this code is garbage and very flimsy
+#disclaimer: this code is garbage, very flimsy and will likely blow up with examples outside the courese provided test cases
 
 def add_time(start, duration, weekday=''):
 
